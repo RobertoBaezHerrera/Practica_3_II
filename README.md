@@ -115,6 +115,7 @@ La esfera se moverá poco al ser empujada por el cilindro debido a su mayor masa
 
 #### Esfera con masa 10 veces menor que el cilindro:
 El cilindro será capaz de empujar la esfera significativamente, y esta se moverá rápidamente al ser impactada, mostrando una interacción dinámica más notable.
+
 ![ejercicio_12_b](https://github.com/user-attachments/assets/a9b92964-9765-4117-904a-dd75cf453a1b)
 
 #### Esfera cinemática:
