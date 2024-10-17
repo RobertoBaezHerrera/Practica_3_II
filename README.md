@@ -110,6 +110,7 @@ El script permite mover un cilindro utilizando las teclas de flecha, aplicando f
 
 #### Esfera con masa 10 veces mayor que el cilindro:
 La esfera se moverá poco al ser empujada por el cilindro debido a su mayor masa. El cilindro se desplazará más rápidamente hacia la esfera, pero la esfera apenas se moverá.
+
 ![ejercicio_12_a](https://github.com/user-attachments/assets/8684e18d-f5e4-4440-8487-3f44800a6c16)
 
 #### Esfera con masa 10 veces menor que el cilindro:
