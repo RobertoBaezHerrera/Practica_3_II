@@ -117,12 +117,12 @@ El cilindro será capaz de empujar la esfera significativamente, y esta se mover
 ![ejercicio_12_b](https://github.com/user-attachments/assets/a9b92964-9765-4117-904a-dd75cf453a1b)
 
 #### Esfera cinemática:
-La esfera no se moverá al ser empujada por el cilindro, pero el cilindro podrá moverse alrededor de ella, mostrando que no hay interacción física.
+La esfera no se moverá al ser empujada por el cilindro, pero el cilindro podrá moverse alrededor de ella y tocarla.
 ![ejercicio_12_c](https://github.com/user-attachments/assets/25c262e5-1cfc-4721-b993-7bf74f28311d)
 
 
 #### Esfera como trigger:
-Similar a la cinemática, el cilindro podrá moverse alrededor de la esfera, pero se activará un evento OnTriggerEnter si el cilindro entra en contacto con la esfera.
+Similar a la cinemática, el cilindro podrá moverse alrededor de la esfera, y el cilindro atravesará a la esfera.
 ![ejercicio_12_d](https://github.com/user-attachments/assets/21db788f-d732-4f5c-afb9-1caceaa6eaff)
 
 #### Fricción duplicada
