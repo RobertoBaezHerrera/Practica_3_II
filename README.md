@@ -78,7 +78,8 @@ El script Ejercicio_4 permite mover un cubo y una esfera en Unity. Utiliza la ve
 
 ### Ejercicio 5
 Se permite mover un cubo y una esfera en Unity, utilizando una velocidad configurada en el campo speed. Las teclas de flecha controlan el movimiento del cubo, mientras que las teclas W, A, S y D permiten mover la esfera. La dirección de movimiento se actualiza al detectar la entrada del usuario, y se aplica el desplazamiento usando transform.Translate, multiplicando por Time.deltaTime para asegurar que el movimiento sea suave y proporcional al tiempo transcurrido entre frames.
-![ejercicio_5](https://github.com/user-attachments/assets/8199f115-3abe-4d48-a634-73f9cccb8e48)
+![ejercicio_5 (1)](https://github.com/user-attachments/assets/256d66a1-47c0-409e-885e-9cee64ee0cd8)
+
 
 ### Ejercicio 6
 El cubo se mueve automáticamente hacia la esfera, calculando la dirección entre ellos y normalizándola para mantener un desplazamiento constante. La velocidad de movimiento se establece en el campo speed. La esfera se controla mediante las teclas W, A, S y D, permitiendo que el usuario la mueva. El uso de Time.deltaTime garantiza un movimiento suave y consistente en relación al tiempo transcurrido entre frames.
@@ -86,6 +87,7 @@ El cubo se mueve automáticamente hacia la esfera, calculando la dirección entr
 
 ### Ejercicio 7
 El cubo ahora gira hacia la esfera utilizando el método LookAt, orientando su frente hacia ella. Además, se mueve en dirección a la esfera con un desplazamiento constante, calculado y normalizado para asegurar un movimiento uniforme. La esfera se controla con las teclas W, A, S y D, permitiendo al usuario moverla. Se mantiene la suavidad del movimiento aplicando Time.deltaTime para escalar la distancia recorrida en cada frame.
+
 ![ejercicio_7](https://github.com/user-attachments/assets/05c78c78-7dfd-400b-82a5-5dd61472a8b0)
 
 ### Ejercicio 8
