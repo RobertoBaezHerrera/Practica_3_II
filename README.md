@@ -43,6 +43,7 @@ Se creó un script para mover un cubo en el eje Z a una velocidad ajustable desd
 ![Ejercicio_1](https://github.com/user-attachments/assets/f88cac4b-17c5-40c2-9602-f43ad9fbc0de)
 
 ### Ejercicio 2
+Establecemos h como el botón de disparo en el Input Manager.
 ![Ejercicio_2](https://github.com/user-attachments/assets/9350256a-a74d-423f-b483-0fb6ce69857d)
 
 ### Ejercicio 3
@@ -60,7 +61,7 @@ Al duplicar speed, el cubo se moverá el doble de rápido en la misma dirección
 ![Ejercicio_3_b](https://github.com/user-attachments/assets/eb5779f4-1aae-4550-bd12-5709c11b9f8c)
 
 #### Caso C
-Si la velocidad se establece en un valor menor que 1, el cubo se moverá más lentamente en la dirección especificada, lo que puede hacer que su desplazamiento sea casi imperceptible dependiendo de la frecuencia de actualización del juego.
+Si la velocidad se establece en un valor menor que 1, el cubo se moverá con la velocidad mínima permitida.
 ![Ejercicio_3_c](https://github.com/user-attachments/assets/e8111812-4423-481e-8586-824d369301c7)
 
 #### Caso D
@@ -68,7 +69,7 @@ Si el cubo comienza en una posición con y > 0, se moverá en la dirección de m
 ![ejercicio_3_d](https://github.com/user-attachments/assets/bd9c14c0-8f3f-437b-ae1a-3b36aebd4707)
 
 #### Caso E
-Si se intercambia el movimiento para ser relativo al sistema de referencia local, el cubo se moverá en relación a su propia rotación y no al mundo. Esto puede resultar en trayectorias diferentes dependiendo de cómo esté orientado el cubo en la escena.
+Si se intercambia el movimiento para ser relativo al sistema de referencia local, el cubo se moverá en relación a su propia rotación y no al mundo. En este caso, no se aprecian cambios.
 ![ejercicio_3_e (1)](https://github.com/user-attachments/assets/e3116adf-7da8-4ccc-a00b-d6fd2b0e3b90)
 
 ### Ejercicio 4
